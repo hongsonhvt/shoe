@@ -1,5 +1,5 @@
 <?php
-$host = "ec2-54-161-239-198.compute-1.amazonaws.com";
+$host = "ec2-54-87-112-29.compute-1.amazonaws.com";
 $port = "5432";
 $dbname = "d81h7m17t2ju55";
 $user = "xbfdbykydcdqey";
